@@ -61,7 +61,7 @@ class LandingPage extends StatelessWidget {
                 mainAxisSize: MainAxisSize.min,
                 children: [
                   Text(
-                    "Launched with Expo 🚀",
+                    "Launched with Expoooo 🚀",
                     textAlign: TextAlign.center,
                     style: Theme.of(context).textTheme.headlineMedium,
                   ),
