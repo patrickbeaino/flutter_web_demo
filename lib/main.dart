@@ -36,7 +36,8 @@ class LaunchDemoApp extends StatelessWidget {
 class LandingPage extends StatelessWidget {
   const LandingPage({super.key});
 
-  final String deployedUrl = ""; // <--- PUT YOUR EXPO URL HERE AFTER DEPLOY
+  final String deployedUrl =
+      "https://flutter-web-demo.expo.app"; // <--- PUT YOUR EXPO URL HERE AFTER DEPLOY
 
   @override
   Widget build(BuildContext context) {
